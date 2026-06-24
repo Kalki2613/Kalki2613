@@ -10,13 +10,11 @@ Passionate about building scalable web applications, exploring cloud technologie
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on **Full Stack & AI-based Projects**
-* 🌱 Learning **Spring Boot, Microservices, AWS, Docker, Kubernetes, and Generative AI**
-* 💻 Skilled in **Java, JavaScript, React.js, Spring Framework, Spring Boot, SQL, MongoDB**
-* ☁️ Enthusiastic about **Cloud Computing & DevOps**
-* 🤖 Exploring **Artificial Intelligence, Machine Learning, and Generative AI**
-* 📚 Strong understanding of **Data Structures & Algorithms**
-* 🎯 Aspiring **Software Engineer | Java Full Stack Developer | AI Engineer**
+- 💼 Java Full Stack Developer with hands-on experience in building web applications using Java, Spring Boot, React.js, and MySQL.
+- ☁️ Passionate about Cloud Computing, DevOps, and scalable application development.
+- 🤖 Exploring Artificial Intelligence, Generative AI, and Machine Learning.
+- 📚 Strong foundation in Data Structures, Algorithms, and Software Engineering principles.
+- 🌱 Continuously learning and building projects to enhance technical expertise.
 
 ---
 
@@ -60,6 +58,20 @@ Passionate about building scalable web applications, exploring cloud technologie
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
 
 ---
+
+📊 GitHub Analytics
+
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalki2613&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalki2613&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalki2613&theme=tokyonight&hide_border=true" /> </p>
+
+🏆 GitHub Achievements
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kalki2613&theme=tokyonight&row=1&column=7" /> </p>
+
+📈 Contribution Graph
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalki2613&theme=tokyo-night" /> </p>
 
 ## 🚀 Featured Projects
 
