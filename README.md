@@ -59,19 +59,59 @@ Passionate about building scalable web applications, exploring cloud technologie
 
 ---
 
-📊 GitHub Analytics
+## 📊 Skills Analytics
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalki2613&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalki2613&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+| Domain                           | Technologies                                                                  |
+| -------------------------------- | ----------------------------------------------------------------------------- |
+| ☕ **Java Full Stack (Primary)**  | Java, Spring Framework, Spring Boot, Hibernate, JDBC, REST APIs, React.js     |
+| 🎨 Frontend Development          | React.js, HTML5, CSS3, JavaScript                                             |
+| 🗄️ Database Management          | MySQL, MongoDB                                                                |
+| ☁️ Cloud & DevOps                | AWS, Docker, Kubernetes, Git, GitHub                                          |
+| 🤖 AI & Emerging Technologies    | Artificial Intelligence, Generative AI, Machine Learning                      |
+| 📚 Computer Science Fundamentals | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalki2613&theme=tokyonight&hide_border=true" /> </p>
+### 🎯 Primary Expertise
 
-🏆 GitHub Achievements
+```text
+☕ Java Full Stack Development  ████████████████████████
+🌱 Spring Boot                 ██████████████████████
+⚙️ Backend Development         ████████████████████
+⚛️ React.js Development        ██████████████████
+🗄️ Database Management         █████████████████
+☁️ Cloud Computing             ██████████████
+🤖 Artificial Intelligence     ████████████
+```
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kalki2613&theme=tokyonight&row=1&column=7" /> </p>
+> 💡 My primary focus is Java Full Stack Development using Java, Spring Boot, React.js, MySQL, and RESTful APIs, while continuously expanding my expertise in Cloud Computing and Artificial Intelligence.
 
-📈 Contribution Graph
+---
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalki2613&theme=tokyo-night" /> </p>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalki2613&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalki2613&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalki2613&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalki2613&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalki2613&theme=tokyo-night" />
+</p>
 
 ## 🚀 Featured Projects
 
