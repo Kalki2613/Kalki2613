@@ -78,11 +78,10 @@ Passionate about building scalable web applications, exploring cloud technologie
 
 ---
 
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/Kalki2613
-- LinkedIn: Add Your LinkedIn Profile
-- Email: Add Your Email
+### 🌐 Connect With Me
+GitHub: github.com/Kalki2613
+LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/kallappa-hattarake-35639b289/)
+Email: kallappahattarake@gmail.com
 
 ---
 
